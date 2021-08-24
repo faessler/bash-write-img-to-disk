@@ -6,7 +6,7 @@ The bash script is now also available as binary.
 ### Option 1: Bash script
 Download the bash script file and execute it like this `bash script.sh`.
 
-## Option 2: Binary (Beta)
+### Option 2: Binary (Beta)
 1. Run `sudo curl https://raw.githubusercontent.com/faessler/bash-write-img-to-disk/master/witd -o /usr/local/bin/witd && sudo chmod 755 witd` to download the binary and put it in _/usr/local/bin_.
 2. After that you can execute `witd` from anywhere.
 
